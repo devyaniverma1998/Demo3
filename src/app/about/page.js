@@ -1,10 +1,11 @@
+import AboutUs from "@/pages/aboutus/page";
 
-import Home3 from "@/pages/aboutus/page";
+
 
 export default function About(){
     return(
         <>
-        <Home3/>
+   <AboutUs/>
         </>
     )
 }

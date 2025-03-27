@@ -1,7 +1,7 @@
 
 import Image from "next/image"
 import Link from "next/link"
-export default function Home8(){
+export default function Team(){
     return(
         <div className="container-fluid team py-5">
         <div className="container py-5">

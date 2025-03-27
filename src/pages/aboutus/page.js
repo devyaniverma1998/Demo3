@@ -1,6 +1,6 @@
 import Image from "next/image"
 import Link from "next/link"
-export default function Home3(){
+export default function AboutUs(){
     return(
         <div className="container-fluid about py-5">
         <div className="container py-5">

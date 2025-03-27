@@ -1,6 +1,6 @@
 import Image from "next/image"
 import Link from "next/link"
-export default function Home9() {
+export default function Testimonial() {
     return (
         <div className="container-fluid testimonial py-5">
             <div className="container py-5">

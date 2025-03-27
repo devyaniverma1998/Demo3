@@ -1,6 +1,6 @@
 import Link from "next/link"
 import Image from "next/image"
-export default function Home1() {
+export default function Hero() {
     return (
         <>
             <div className="container-fluid carousel-header px-0">
@@ -12,7 +12,7 @@ export default function Home1() {
                     </ol>
                     <div className="carousel-inner" role="listbox">
                         <div className="carousel-item active">
-                            <Image src="/carousel-3.jpg" className="img-fluid" alt="Image" />
+                            <Image src="/carousel-3.jpg" className="img-fluid" alt="Image" width={100} />
                             <div className="carousel-caption">
                                 <div className="p-3" >
                                     <h4 className="text-primary text-uppercase mb-3">Spa & Beauty Center</h4>
@@ -26,7 +26,7 @@ export default function Home1() {
                             </div>
                         </div>
                         <div className="carousel-item">
-                            <Image src="/carousel-2.jpg" className="img-fluid" alt="Image" />
+                            <Image src="/carousel-2.jpg" className="img-fluid" alt="Image"  width={100} />
                             <div className="carousel-caption">
                                 <div className="p-3" >
                                     <h4 className="text-primary text-uppercase mb-3" >Spa & Beauty Center</h4>
@@ -40,7 +40,7 @@ export default function Home1() {
                             </div>
                         </div>
                         <div className="carousel-item">
-                            <Image src="/carousel-1.jpg" className="img-fluid" alt="Image" />
+                            <Image src="/carousel-1.jpg" className="img-fluid" alt="Image" width={100} />
                             <div className="carousel-caption">
                                 <div className="p-3" >
                                     <h4 className="text-primary text-uppercase mb-3" >Spa & Beauty Center</h4>

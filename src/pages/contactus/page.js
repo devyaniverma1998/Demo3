@@ -1,5 +1,5 @@
 import Link from "next/link"
-export default function Home10(){
+export default function ContactUs(){
     return(
         <div className="container-fluid py-5">
             <div className="container py-5">

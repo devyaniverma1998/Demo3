@@ -1,5 +1,5 @@
 import Link from "next/link"
-export default function Home7(){
+export default function Price(){
     return(
         <div className="container-fluid pricing py-5">
         <div className="container py-5">

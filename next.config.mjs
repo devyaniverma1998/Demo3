@@ -1,6 +1,9 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     output: "export",
-};
-
-export default nextConfig;
+    assetPrefix: "./",     async generateStaticParams() {
+      return [];
+    },
+  };
+  
+  export default nextConfig;

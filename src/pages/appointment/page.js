@@ -1,4 +1,4 @@
-export default function Home5(){
+export default function Appointment(){
     return(
         <div className="container-fluid appointment py-5">
             <div className="container py-5">
