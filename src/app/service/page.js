@@ -2,7 +2,7 @@ import Image from "next/image"
 import Link from "next/link"
 export default function Service() {
     return (
-        <>
+    
         <div className="container-fluid services py-5">
             <div className="container py-5">
                 <div className="mx-auto text-center mb-5" >
@@ -22,7 +22,7 @@ export default function Service() {
                                 </div>
                                 <div className="col-4">
                                     <div className="services-img d-flex align-items-center justify-content-center rounded">
-                                        <Image src="/services-1.jpg" className="img-fluid rounded" alt="not found"/>
+                                        <img src="/img/services-1.jpg" className="img-fluid rounded" alt="not found"/>
                                     </div>
                                 </div>
                             </div>
@@ -33,7 +33,7 @@ export default function Service() {
                             <div className="row align-items-center">
                                 <div className="col-4">
                                     <div className="services-img d-flex align-items-center justify-content-center rounded">
-                                        <Image src="/services-2.jpg" className="img-fluid rounded" alt="not found"/>
+                                        <img src="/img/services-2.jpg" className="img-fluid rounded" alt="not found"/>
                                     </div>
                                 </div>
                                 <div className="col-8">
@@ -58,7 +58,7 @@ export default function Service() {
                                 </div>
                                 <div className="col-4">
                                     <div className="services-img d-flex align-items-center justify-content-center rounded">
-                                        <Image src="/services-3.jpg" className="img-fluid rounded" alt="not found"/>
+                                        <img src="/img/services-3.jpg" className="img-fluid rounded" alt="not found"/>
                                     </div>
                                 </div>
                             </div>
@@ -69,7 +69,7 @@ export default function Service() {
                             <div className="row align-items-center">
                                 <div className="col-4">
                                     <div className="services-img d-flex align-items-center justify-content-center rounded">
-                                        <Image src="/services-4.jpg" className="img-fluid rounded" alt="not found"/>
+                                        <img src="/img/services-4.jpg" className="img-fluid rounded" alt="not found"/>
                                     </div>
                                 </div>
                                 <div className="col-8">
@@ -94,7 +94,7 @@ export default function Service() {
                                 </div>
                                 <div className="col-4">
                                     <div className="services-img d-flex align-items-center justify-content-center rounded">
-                                        <Image src="/services-5.jpg" className="img-fluid rounded" alt="not found"/>
+                                        <img src="/img/services-5.jpg" className="img-fluid rounded" alt="not found"/>
                                     </div>
                                 </div>
                             </div>
@@ -105,7 +105,7 @@ export default function Service() {
                             <div className="row align-items-center">
                                 <div className="col-4">
                                     <div className="services-img d-flex align-items-center justify-content-center rounded">
-                                        <Image src="/services-6.jpg" className="img-fluid rounded" alt="not found"/>
+                                        <img src="/img/services-6.jpg" className="img-fluid rounded" alt="not found"/>
                                     </div>
                                 </div>
                                 <div className="col-8">
@@ -130,7 +130,7 @@ export default function Service() {
                                 </div>
                                 <div className="col-4">
                                     <div className="services-img d-flex align-items-center justify-content-center rounded">
-                                        <Image src="/services-3.jpg" className="img-fluid rounded" alt="not found"/>
+                                        <img src="/img/services-3.jpg" className="img-fluid rounded" alt="not found"/>
                                     </div>
                                 </div>
                             </div>
@@ -141,7 +141,7 @@ export default function Service() {
                             <div className="row align-items-center">
                                 <div className="col-4">
                                     <div className="services-img d-flex align-items-center justify-content-center rounded">
-                                        <Image src="/services-1.jpg" className="img-fluid rounded" alt="not found"/>
+                                        <img src="/img/services-1.jpg" className="img-fluid rounded" alt="not found"/>
                                     </div>
                                 </div>
                                 <div className="col-8">
@@ -162,6 +162,6 @@ export default function Service() {
                 </div>
             </div>
         </div>
-        </>
+        
     )
 }

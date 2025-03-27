@@ -14,7 +14,7 @@ export default function Testimonial() {
                             <div className="col-4">
                                 <div className="d-flex flex-column mx-auto">
                                     <div className="rounded-circle mb-4" >
-                                        <Image src="/testimonial-1.jpg" className="img-fluid rounded-circle" alt="" />
+                                        <img src="/img/testimonial-1.jpg" className="img-fluid rounded-circle" alt="" />
                                     </div>
                                     <div className="text-center">
                                         <h4 className="mb-2 text-primary">Person Name</h4>
@@ -45,7 +45,7 @@ export default function Testimonial() {
                             <div className="col-4">
                                 <div className="d-flex flex-column mx-auto">
                                     <div className="rounded-circle mb-4" >
-                                        < Image src="/testimonial-2.jpg" className="img-fluid rounded-circle" alt="" />
+                                        <img src="/img/testimonial-2.jpg" className="img-fluid rounded-circle" alt="" />
                                     </div>
                                     <div className="text-center">
                                         <h4 className="mb-2 text-primary">Person Name</h4>
@@ -76,7 +76,7 @@ export default function Testimonial() {
                             <div className="col-4">
                                 <div className="d-flex flex-column mx-auto">
                                     <div className="rounded-circle mb-4" >
-                                        <Image src="/testimonial-3.jpg" className="img-fluid rounded-circle" alt="" />
+                                        <img src="/img/testimonial-3.jpg" className="img-fluid rounded-circle" alt="" />
                                     </div>
                                     <div className="text-center">
                                         <h4 className="mb-2 text-primary">Person Name</h4>
