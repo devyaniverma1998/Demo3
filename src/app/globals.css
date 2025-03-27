@@ -39,13 +39,19 @@ body {
   transition: 0.5s;
   z-index: 99;
 }
-
+a {
+  color: rgba(var(--bs-link-color-rgb), var(--bs-link-opacity, 1));
+  text-decoration: none  !important;
+}
 /*** Button Start ***/
 .btn {
   font-weight: 600;
   transition: .5s;
 }
 
+.bg-primary{
+  background-color: #295F98 !important;
+}
 .btn-square {
   width: 32px;
   height: 32px;
@@ -84,7 +90,7 @@ body {
 
 .btn-light-outline-0 {
   border: 0;
-  color: var(--bs-primary) !important;
+  color: #295F98 !important;
 }
 
 .btn-primary-outline-0:hover {
@@ -121,7 +127,7 @@ body {
 .navbar .navbar-nav .nav-link.active,
 .sticky-top.bg-white .navbar .navbar-nav .nav-link:hover,
 .sticky-top.bg-white .navbar .navbar-nav .nav-link.active {
-  color: var(--bs-primary);
+  color: #295F98;
 }
 
 .navbar .dropdown-toggle::after {
@@ -148,7 +154,7 @@ body {
 
 .dropdown .dropdown-menu a:hover {
   background: var(--bs-secondary);
-  color: var(--bs-primary);
+  color: #295F98;
 }
 
 .navbar .nav-item:hover .dropdown-menu {
@@ -177,7 +183,10 @@ body {
   min-height: 100vh
   
 }
-
+.border-primary {
+  --bs-border-opacity: 1;
+  border-color:#295F98  !important;
+}
 .carousel-item img {
   position: absolute;
   width: 100%;
@@ -224,10 +233,10 @@ body {
 }
 
 #carouselId .carousel-indicators li.active {
-  background: var(--bs-primary);
-  border-color: var(--bs-primary);
-  border-right: 15px solid var(--bs-primary);
-  border-left: 15px solid var(--bs-primary);
+  background: #295F98;
+  border-color: #295F98;
+  border-right: 15px solid #295F98;
+  border-left: 15px solid #295F98;
 }
 /*** Carousel End ***/
 
@@ -245,7 +254,7 @@ body {
 }
 
 .services .services-item:hover {
-  background: var(--bs-primary) !important;
+  background: #295F98 !important;
   border-color: var(--bs-secondary) !important;
 }
 
@@ -257,7 +266,7 @@ body {
 
 .services .services-item:hover .services-content a.btn {
   background: var(--bs-white);
-  color: var(--bs-primary) !important;
+  color:#295F98 !important;
 }
 
 .services .services-item:hover .services-content a.btn:hover {
@@ -328,7 +337,7 @@ body {
   display: block;
   width: 100px;
   height: 100px;
-  background: var(--bs-primary);
+  background: #295F98;
   border-radius: 50%;
   transition: all 200ms;
 }
@@ -443,7 +452,7 @@ body {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  background: var(--bs-primary);
+  background: #295F98;
 }
 /*** Counter End ***/
 
@@ -453,7 +462,7 @@ body {
   padding: 0 0 20px 0;
 }
 .gallery .tab-class .nav-item a.active {
-  background: var(--bs-primary) !important;
+  background: #295F98 !important;
 }
 
 .gallery .tab-class .nav-item a.active span {
@@ -546,7 +555,25 @@ body {
 
 .pricing .owl-carousel.pricing-carousel .owl-nav .owl-prev:hover,
 .pricing .owl-carousel.pricing-carousel .owl-nav .owl-next:hover {
-  color: var(--bs-primary);
+  color: #295F98;
+}
+.btn-primary{
+  color:#295F98 !important ;
+}
+.border {
+  border:#295F98 !important ;
+}
+a i{
+  color: #295F98 !important;
+}
+.container-fluid a i{
+  color: #295F98 !important;
+}
+.text-primary{
+  color: #295F98 !important;
+}
+.border-primary {
+  border-color: #295F98 !important;
 }
 /*** Pricing End ***/
 
@@ -558,7 +585,7 @@ body {
 }
 
 .team .team-item .team-text {
-  background: var(--bs-primary);
+  background: #295F98;
 }
 
 .team .team-item .team-social {
@@ -643,7 +670,7 @@ body {
 
 .testimonial .owl-carousel.testimonial-carousel .owl-nav .owl-prev:hover,
 .testimonial .owl-carousel.testimonial-carousel .owl-nav .owl-next:hover {
-  color: var(--bs-primary);
+  color: #295F98;
 }
 /*** testimonial end ***/
 
@@ -675,7 +702,7 @@ body {
 
 .footer .footer-item a:hover {
   letter-spacing: 2px;
-  color: var(--bs-primary) !important;
+  color: #295F98 !important;
 }
 
 /*** Footer End ***/

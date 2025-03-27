@@ -41,89 +41,89 @@ export default function Home6(){
                                 <div className="row g-4">
                                     <div className="col-lg-3">
                                         <div className="gallery-img">
-                                            <img className="img-fluid rounded w-100" src="img/gallery-1.jpg" alt=""/>
+                                            <img className="img-fluid rounded w-100" src="/gallery-1.jpg" alt=""/>
                                             <div className="gallery-overlay p-4">
                                                 <h4 className="text-secondary">Skin Care</h4>
                                             </div>
                                             <div className="search-icon">
-                                                <a href="img/gallery-1.jpg" data-lightbox="Gallery-1" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
+                                                <a href="/gallery-1.jpg" data-lightbox="Gallery-1" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
                                             </div>
                                         </div>
                                     </div>
                                     <div className="col-lg-3">
                                         <div className="gallery-img">
-                                            <img className="img-fluid rounded w-100" src="img/gallery-2.jpg" alt=""/>
+                                            <img className="img-fluid rounded w-100" src="/gallery-2.jpg" alt=""/>
                                             <div className="gallery-overlay p-4">
                                                 <h4 className="text-secondary">Stream Bath</h4>
                                             </div>
                                             <div className="search-icon">
-                                                <a href="img/gallery-2.jpg" data-lightbox="Gallery-2" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
+                                                <a href="/gallery-2.jpg" data-lightbox="Gallery-2" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
                                             </div>
                                         </div>
                                     </div>
                                     <div className="col-lg-3">
                                         <div className="gallery-img">
-                                            <img className="img-fluid rounded w-100" src="img/gallery-3.jpg" alt=""/>
+                                            <img className="img-fluid rounded w-100" src="/gallery-3.jpg" alt=""/>
                                             <div className="gallery-overlay p-4">
                                                 <h4 className="text-secondary">Stone Therapy</h4>
                                             </div>
                                             <div className="search-icon">
-                                                <a href="img/gallery-3.jpg" data-lightbox="Gallery-3" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
+                                                <a href="/gallery-3.jpg" data-lightbox="Gallery-3" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
                                             </div>
                                         </div>
                                     </div>
                                     <div className="col-lg-3">
                                         <div className="gallery-img">
-                                            <img className="img-fluid rounded w-100" src="img/gallery-4.jpg" alt=""/>
+                                            <img className="img-fluid rounded w-100" src="/gallery-4.jpg" alt=""/>
                                             <div className="gallery-overlay p-4">
                                                 <h4 className="text-secondary">Face Massage</h4>
                                             </div>
                                             <div className="search-icon">
-                                                <a href="img/gallery-4.jpg" data-lightbox="Gallery-4" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
+                                                <a href="/gallery-4.jpg" data-lightbox="Gallery-4" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
                                             </div>
                                         </div>
                                     </div>
                                     <div className="col-lg-3">
                                         <div className="gallery-img">
-                                            <img className="img-fluid rounded w-100" src="img/gallery-5.jpg" alt=""/>
+                                            <img className="img-fluid rounded w-100" src="/gallery-5.jpg" alt=""/>
                                             <div className="gallery-overlay p-4">
                                                 <h4 className="text-secondary">Skin Care</h4>
                                             </div>
                                             <div className="search-icon">
-                                                <a href="img/gallery-5.jpg" data-lightbox="Gallery-5" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
+                                                <a href="/gallery-5.jpg" data-lightbox="Gallery-5" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
                                             </div>
                                         </div>
                                     </div>
                                     <div className="col-lg-3">
                                         <div className="gallery-img">
-                                            <img className="img-fluid rounded w-100" src="img/gallery-6.jpg" alt=""/>
+                                            <img className="img-fluid rounded w-100" src="/gallery-6.jpg" alt=""/>
                                             <div className="gallery-overlay p-4">
                                                 <h4 className="text-secondary">Stream Bath</h4>
                                             </div>
                                             <div className="search-icon">
-                                                <a href="img/gallery-6.jpg" data-lightbox="Gallery-6" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
+                                                <a href="/gallery-6.jpg" data-lightbox="Gallery-6" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
                                             </div>
                                         </div>
                                     </div>
                                     <div className="col-lg-3">
                                         <div className="gallery-img">
-                                            <img className="img-fluid rounded w-100" src="img/gallery-7.jpg" alt=""/>
+                                            <img className="img-fluid rounded w-100" src="/gallery-7.jpg" alt=""/>
                                             <div className="gallery-overlay p-4">
                                                 <h4 className="text-secondary">Stone Therapy</h4>
                                             </div>
                                             <div className="search-icon">
-                                                <a href="img/gallery-7.jpg" data-lightbox="Gallery-7" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
+                                                <a href="/gallery-7.jpg" data-lightbox="Gallery-7" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
                                             </div>
                                         </div>
                                     </div>
                                     <div className="col-lg-3">
                                         <div className="gallery-img">
-                                            <img className="img-fluid rounded w-100" src="img/gallery-8.jpg" alt=""/>
+                                            <img className="img-fluid rounded w-100" src="/gallery-8.jpg" alt=""/>
                                             <div className="gallery-overlay p-4">
                                                 <h4 className="text-secondary">Face Massage</h4>
                                             </div>
                                             <div className="search-icon">
-                                                <a href="img/gallery-8.jpg" data-lightbox="Gallery-8" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
+                                                <a href="/gallery-8.jpg" data-lightbox="Gallery-8" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -137,45 +137,45 @@ export default function Home6(){
                                 <div className="row g-4">
                                     <div className="col-lg-3">
                                         <div className="gallery-img">
-                                            <img className="img-fluid rounded w-100" src="img/gallery-9.jpg" alt=""/>
+                                            <img className="img-fluid rounded w-100" src="/gallery-9.jpg" alt=""/>
                                             <div className="gallery-overlay p-4">
                                                 <h4 className="text-secondary">Skin Care</h4>
                                             </div>
                                             <div className="search-icon">
-                                                <a href="img/gallery-9.jpg" data-lightbox="Gallery-9" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
+                                                <a href="/gallery-9.jpg" data-lightbox="Gallery-9" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
                                             </div>
                                         </div>
                                     </div>
                                     <div className="col-lg-3">
                                         <div className="gallery-img">
-                                            <img className="img-fluid rounded w-100" src="img/gallery-10.jpg" alt=""/>
+                                            <img className="img-fluid rounded w-100" src="/gallery-10.jpg" alt=""/>
                                             <div className="gallery-overlay p-4">
                                                 <h4 className="text-secondary">Skin Care</h4>
                                             </div>
                                             <div className="search-icon">
-                                                <a href="img/gallery-10.jpg" data-lightbox="Gallery-10" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
+                                                <a href="/gallery-10.jpg" data-lightbox="Gallery-10" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
                                             </div>
                                         </div>
                                     </div>
                                     <div className="col-lg-3">
                                         <div className="gallery-img">
-                                            <img className="img-fluid rounded w-100" src="img/gallery-5.jpg" alt=""/>
+                                            <img className="img-fluid rounded w-100" src="/gallery-5.jpg" alt=""/>
                                             <div className="gallery-overlay p-4">
                                                 <h4 className="text-secondary">Skin Care</h4>
                                             </div>
                                             <div className="search-icon">
-                                                <a href="img/gallery-5.jpg" data-lightbox="Gallery-11" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
+                                                <a href="/gallery-5.jpg" data-lightbox="Gallery-11" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
                                             </div>
                                         </div>
                                     </div>
                                     <div className="col-lg-3">
                                         <div className="gallery-img">
-                                            <img className="img-fluid rounded w-100" src="img/gallery-1.jpg" alt=""/>
+                                            <img className="img-fluid rounded w-100" src="/gallery-1.jpg" alt=""/>
                                             <div className="gallery-overlay p-4">
                                                 <h4 className="text-secondary">Skin Care</h4>
                                             </div>
                                             <div className="search-icon">
-                                                <a href="img/gallery-1.jpg" data-lightbox="Gallery-12" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
+                                                <a href="/gallery-1.jpg" data-lightbox="Gallery-12" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -189,45 +189,45 @@ export default function Home6(){
                                 <div className="row g-4">
                                     <div className="col-lg-3">
                                         <div className="gallery-img">
-                                            <img className="img-fluid rounded w-100" src="img/gallery-11.jpg" alt=""/>
+                                            <img className="img-fluid rounded w-100" src="/gallery-11.jpg" alt=""/>
                                             <div className="gallery-overlay p-4">
                                                 <h4 className="text-secondary">Stream Bath</h4>
                                             </div>
                                             <div className="search-icon">
-                                                <a href="img/gallery-11.jpg" data-lightbox="Gallery-13" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
+                                                <a href="/gallery-11.jpg" data-lightbox="Gallery-13" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
                                             </div>
                                         </div>
                                     </div>
                                     <div className="col-lg-3">
                                         <div className="gallery-img">
-                                            <img className="img-fluid rounded w-100" src="img/gallery-12.jpg" alt=""/>
+                                            <img className="img-fluid rounded w-100" src="/gallery-12.jpg" alt=""/>
                                             <div className="gallery-overlay p-4">
                                                 <h4 className="text-secondary">Stream Bath</h4>
                                             </div>
                                             <div className="search-icon">
-                                                <a href="img/gallery-12.jpg" data-lightbox="Gallery-14" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
+                                                <a href="/gallery-12.jpg" data-lightbox="Gallery-14" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
                                             </div>
                                         </div>
                                     </div>
                                     <div className="col-lg-3">
                                         <div className="gallery-img">
-                                            <img className="img-fluid rounded w-100" src="img/gallery-2.jpg" alt=""/>
+                                            <img className="img-fluid rounded w-100" src="/gallery-2.jpg" alt=""/>
                                             <div className="gallery-overlay p-4">
                                                 <h4 className="text-secondary">Stream Bath</h4>
                                             </div>
                                             <div className="search-icon">
-                                                <a href="img/gallery-2.jpg" data-lightbox="Gallery-15" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
+                                                <a href="/gallery-2.jpg" data-lightbox="Gallery-15" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
                                             </div>
                                         </div>
                                     </div>
                                     <div className="col-lg-3">
                                         <div className="gallery-img">
-                                            <img className="img-fluid rounded w-100" src="img/gallery-6.jpg" alt=""/>
+                                            <img className="img-fluid rounded w-100" src="/gallery-6.jpg" alt=""/>
                                             <div className="gallery-overlay p-4">
                                                 <h4 className="text-secondary">Stream Bath</h4>
                                             </div>
                                             <div className="search-icon">
-                                                <a href="img/gallery-6.jpg" data-lightbox="Gallery-16" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
+                                                <a href="/gallery-6.jpg" data-lightbox="Gallery-16" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -241,45 +241,45 @@ export default function Home6(){
                                 <div className="row g-4">
                                     <div className="col-lg-3">
                                         <div className="gallery-img">
-                                            <img className="img-fluid rounded w-100" src="img/gallery-13.jpg" alt=""/>
+                                            <img className="img-fluid rounded w-100" src="/gallery-13.jpg" alt=""/>
                                             <div className="gallery-overlay p-4">
                                                 <h4 className="text-secondary">Stone Therapy</h4>
                                             </div>
                                             <div className="search-icon">
-                                                <a href="img/gallery-13.jpg" data-lightbox="Gallery-17" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
+                                                <a href="/gallery-13.jpg" data-lightbox="Gallery-17" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
                                             </div>
                                         </div>
                                     </div>
                                     <div className="col-lg-3">
                                         <div className="gallery-img">
-                                            <img className="img-fluid rounded w-100" src="img/gallery-2.jpg" alt=""/>
+                                            <img className="img-fluid rounded w-100" src="/gallery-2.jpg" alt=""/>
                                             <div className="gallery-overlay p-4">
                                                 <h4 className="text-secondary">Stone Therapy</h4>
                                             </div>
                                             <div className="search-icon">
-                                                <a href="img/gallery-2.jpg" data-lightbox="Gallery-18" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
+                                                <a href="/gallery-2.jpg" data-lightbox="Gallery-18" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
                                             </div>
                                         </div>
                                     </div>
                                     <div className="col-lg-3">
                                         <div className="gallery-img">
-                                            <img className="img-fluid rounded w-100" src="img/gallery-3.jpg" alt=""/>
+                                            <img className="img-fluid rounded w-100" src="/gallery-3.jpg" alt=""/>
                                             <div className="gallery-overlay p-4">
                                                 <h4 className="text-secondary">Stone Therapy</h4>
                                             </div>
                                             <div className="search-icon">
-                                                <a href="img/gallery-3.jpg" data-lightbox="Gallery-19" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
+                                                <a href="/gallery-3.jpg" data-lightbox="Gallery-19" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
                                             </div>
                                         </div>
                                     </div>
                                     <div className="col-lg-3">
                                         <div className="gallery-img">
-                                            <img className="img-fluid rounded w-100" src="img/gallery-7.jpg" alt=""/>
+                                            <img className="img-fluid rounded w-100" src="/gallery-7.jpg" alt=""/>
                                             <div className="gallery-overlay p-4">
                                                 <h4 className="text-secondary">Stone Therapy</h4>
                                             </div>
                                             <div className="search-icon">
-                                                <a href="img/gallery-7.jpg" data-lightbox="Gallery-20" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
+                                                <a href="/gallery-7.jpg" data-lightbox="Gallery-20" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
                                             </div>
                                         </div>
                                     </div>
@@ -293,67 +293,67 @@ export default function Home6(){
                                 <div className="row g-4">
                                     <div className="col-lg-3">
                                         <div className="gallery-img">
-                                            <img className="img-fluid rounded w-100" src="img/gallery-4.jpg" alt=""/>
+                                            <img className="img-fluid rounded w-100" src="/gallery-4.jpg" alt=""/>
                                             <div className="gallery-overlay p-4">
                                                 <h4 className="text-secondary">Face Massage</h4>
                                             </div>
                                             <div className="search-icon">
-                                                <a href="img/gallery-4.jpg" data-lightbox="Gallery-21" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
+                                                <a href="/gallery-4.jpg" data-lightbox="Gallery-21" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
                                             </div>
                                         </div>
                                     </div>
                                     <div className="col-lg-3">
                                         <div className="gallery-img">
-                                            <img className="img-fluid rounded w-100" src="img/gallery-6.jpg" alt=""/>
+                                            <img className="img-fluid rounded w-100" src="/gallery-6.jpg" alt=""/>
                                             <div className="gallery-overlay p-4">
                                                 <h4 className="text-secondary">Face Massage</h4>
                                             </div>
                                             <div className="search-icon">
-                                                <a href="img/gallery-6.jpg" data-lightbox="Gallery-22" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
+                                                <a href="/gallery-6.jpg" data-lightbox="Gallery-22" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
                                             </div>
                                         </div>
                                     </div>
                                     <div className="col-lg-3">
                                         <div className="gallery-img">
-                                            <img className="img-fluid rounded w-100" src="img/gallery-8.jpg" alt=""/>
+                                            <img className="img-fluid rounded w-100" src="/gallery-8.jpg" alt=""/>
                                             <div className="gallery-overlay p-4">
                                                 <h4 className="text-secondary">Face Massage</h4>
                                             </div>
                                             <div className="search-icon">
-                                                <a href="img/gallery-8.jpg" data-lightbox="Gallery-23" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
+                                                <a href="/gallery-8.jpg" data-lightbox="Gallery-23" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
                                             </div>
                                         </div>
                                     </div>
                                     <div className="col-lg-3">
                                         <div className="gallery-img">
-                                            <img className="img-fluid rounded w-100" src="img/gallery-14.jpg" alt=""/>
+                                            <img className="img-fluid rounded w-100" src="/gallery-14.jpg" alt=""/>
                                             <div className="gallery-overlay p-4">
                                                 <h4 className="text-secondary">Face Massage</h4>
                                             </div>
                                             <div className="search-icon">
-                                                <a href="img/gallery-14.jpg" data-lightbox="Gallery-24" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
+                                                <a href="/gallery-14.jpg" data-lightbox="Gallery-24" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
                                             </div>
                                         </div>
                                     </div>
                                     <div className="col-lg-3">
                                         <div className="gallery-img">
-                                            <img className="img-fluid rounded w-100" src="img/gallery-4.jpg" alt=""/>
+                                            <img className="img-fluid rounded w-100" src="/gallery-4.jpg" alt=""/>
                                             <div className="gallery-overlay p-4">
                                                 <h4 className="text-secondary">Face Massage</h4>
                                             </div>
                                             <div className="search-icon">
-                                                <a href="img/gallery-4.jpg" data-lightbox="Gallery-25" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
+                                                <a href="/gallery-4.jpg" data-lightbox="Gallery-25" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
                                             </div>
                                         </div>
                                     </div>
                                     <div className="col-lg-3">
                                         <div className="gallery-img">
-                                            <img className="img-fluid rounded w-100" src="img/gallery-8.jpg" alt=""/>
+                                            <img className="img-fluid rounded w-100" src="/gallery-8.jpg" alt=""/>
                                             <div className="gallery-overlay p-4">
                                                 <h4 className="text-secondary">Face Massage</h4>
                                             </div>
                                             <div className="search-icon">
-                                                <a href="img/gallery-8.jpg" data-lightbox="Gallery-26" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
+                                                <a href="/gallery-8.jpg" data-lightbox="Gallery-26" className="my-auto"><i className="fas fa-search-plus btn-primary btn-primary-outline-0 rounded-circle p-3"></i></a>
                                             </div>
                                         </div>
                                     </div>

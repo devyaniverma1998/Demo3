@@ -17,21 +17,20 @@ export default function Footer() {
                         <div className="col-md-6 col-lg-6 col-xl-3">
                             <div className="footer-item d-flex flex-column">
                                 <h4 className="mb-4 text-white">Our Services</h4>
-                                <a href=""><i className="fas fa-angle-right me-2"></i> Facials</a>
-                                <a href=""><i className="fas fa-angle-right me-2"></i> Waxing</a>
-                                <a href=""><i className="fas fa-angle-right me-2"></i> Message</a>
-                                <a href=""><i className="fas fa-angle-right me-2"></i> Minarel baths</a>
-                                <a href=""><i className="fas fa-angle-right me-2"></i> Body treatments</a>
-                                <a href=""><i className="fas fa-angle-right me-2"></i> Aroma Therapy</a>
-                                <a href=""><i className="fas fa-angle-right me-2"></i> Stone Spa</a>
+                                <a href="/about"><i className="fas fa-angle-right me-2"></i> About</a>
+                                <a href="/blog"><i className="fas fa-angle-right me-2"></i> Blog</a>
+
+                                <a href="/terms"><i className="fas fa-angle-right me-2"></i> Terms & Conditions</a>
+                                <a href="/privacy"><i className="fas fa-angle-right me-2"></i> Privacy Policy</a>
+                                <a href="/contact"><i className="fas fa-angle-right me-2"></i> Contact</a>
                             </div>
                         </div>
                         <div className="col-md-6 col-lg-6 col-xl-3">
                             <div className="footer-item d-flex flex-column">
                                 <h4 className="mb-4 text-white">Schedule</h4>
-                                <p className="text-muted mb-0">Monday: <span className="text-white"> 09:00 am – 10:00 pm</span></p>
-                                <p className="text-muted mb-0">Saturday: <span className="text-white"> 09:00 am – 08:00 pm</span></p>
-                                <p className="text-muted mb-0">Sunday: <span className="text-white"> 09:00 am – 05:00 pm</span></p>
+                                <p className=" mb-0">Monday: <span className="text-white"> 09:00 am – 10:00 pm</span></p>
+                                <p className=" mb-0">Saturday: <span className="text-white"> 09:00 am – 08:00 pm</span></p>
+                                <p className="mb-0">Sunday: <span className="text-white"> 09:00 am – 05:00 pm</span></p>
                                 <h4 className="my-4 text-white">Address</h4>
                                 <p className="mb-0"><i className="fas fa-map-marker-alt text-secondary me-2"></i> 123 ranking street North tower New York, USA</p>
                             </div>
@@ -58,16 +57,24 @@ export default function Footer() {
                             <span className="text-light"><a href="#"><i className="fas fa-copyright text-light me-2"></i>Your Site Name</a>, All right reserved.</span>
                         </div>
                         <div className="col-md-4">
+                            {/* <div className="d-flex justify-content-center">
+                                <a href="" className="btn btn-light btn-light-outline-0 btn-sm-square rounded-circle me-2"><i className="fab fa-facebook-f"></i></a>
+                                <a href="" className="btn btn-light btn-light-outline-0 btn-sm-square rounded-circle me-2"><i className="fab fa-twitter"></i></a>
+                                <a href="" className="btn btn-light btn-light-outline-0 btn-sm-square rounded-circle me-2"><i className="fab fa-instagram"></i></a>
+                                <a href="" className="btn btn-light btn-light-outline-0 btn-sm-square rounded-circle me-0"><i className="fab fa-linkedin-in"></i></a>
+                            </div> */}
+                        </div>
+                        <div className="col-md-4 text-center text-md-end text-white">
+
                             <div className="d-flex justify-content-center">
                                 <a href="" className="btn btn-light btn-light-outline-0 btn-sm-square rounded-circle me-2"><i className="fab fa-facebook-f"></i></a>
                                 <a href="" className="btn btn-light btn-light-outline-0 btn-sm-square rounded-circle me-2"><i className="fab fa-twitter"></i></a>
                                 <a href="" className="btn btn-light btn-light-outline-0 btn-sm-square rounded-circle me-2"><i className="fab fa-instagram"></i></a>
                                 <a href="" className="btn btn-light btn-light-outline-0 btn-sm-square rounded-circle me-0"><i className="fab fa-linkedin-in"></i></a>
                             </div>
-                        </div>
-                        <div className="col-md-4 text-center text-md-end text-white">
 
-                            Designed By <a className="border-bottom" href="https://htmlcodex.com">HTML Codex</a>
+                            {/* 
+                            Designed By <a className="border-bottom" href="https://htmlcodex.com">HTML Codex</a> */}
                         </div>
                     </div>
                 </div>

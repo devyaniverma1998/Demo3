@@ -10,7 +10,7 @@ export default function Home8(){
                 <div className="col-md-6 col-lg-6 col-xl-3">
                     <div className="team-item">
                         <div className="team-img rounded-top">
-                            <img src="img/team-1.png" className="img-fluid w-100 rounded-top bg-light" alt=""/>
+                            <img src="/team-1.png" className="img-fluid w-100 rounded-top bg-light" alt=""/>
                         </div>
                         <div className="team-text rounded-bottom text-center p-4">
                             <h3 className="text-white">Oliva Mia</h3>
@@ -27,7 +27,7 @@ export default function Home8(){
                 <div className="col-md-6 col-lg-6 col-xl-3">
                     <div className="team-item">
                         <div className="team-img rounded-top">
-                            <img src="img/team-2.png" className="img-fluid w-100 rounded-top bg-light" alt=""/>
+                            <img src="/team-2.png" className="img-fluid w-100 rounded-top bg-light" alt=""/>
                         </div>
                         <div className="team-text rounded-bottom text-center p-4">
                             <h3 className="text-white">Charlotte Ross</h3>
@@ -44,7 +44,7 @@ export default function Home8(){
                 <div className="col-md-6 col-lg-6 col-xl-3">
                     <div className="team-item">
                         <div className="team-img rounded-top">
-                            <img src="img/team-3.png" className="img-fluid w-100 rounded-top bg-light" alt=""/>
+                            <img src="/team-3.png" className="img-fluid w-100 rounded-top bg-light" alt=""/>
                         </div>
                         <div className="team-text rounded-bottom text-center p-4">
                             <h3 className="text-white">Amelia Luna</h3>
@@ -61,7 +61,7 @@ export default function Home8(){
                 <div className="col-md-6 col-lg-6 col-xl-3">
                     <div className="team-item">
                         <div className="team-img rounded-top">
-                            <img src="img/team-4.png" className="img-fluid w-100 rounded-top bg-light" alt=""/>
+                            <img src="/team-4.png" className="img-fluid w-100 rounded-top bg-light" alt=""/>
                         </div>
                         <div className="team-text rounded-bottom text-center p-4">
                             <h3 className="text-white">Isabella Evelyn</h3>

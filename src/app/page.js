@@ -10,6 +10,7 @@ import Home8 from "@/pages/home8/page";
 import Home9 from "@/pages/home9/page";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import '@fortawesome/fontawesome-free/css/all.min.css';
+
 import Image from "next/image";
 
 export default function Home() {

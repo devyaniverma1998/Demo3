@@ -2,7 +2,7 @@ import Link from "next/link"
 export default function Header(){
     return(
         <>
-      <div className="navbar container-fluid sticky-top px-0">
+      <div className="navbar container-fluid sticky-top px-0" style={{background:"#295F98"}}>
             <div className="container-fluid topbar d-none d-lg-block">
                 <div className="container px-0">
                     <div className="row align-items-center">

@@ -20,7 +20,7 @@ export default function Home2() {
                                 </div>
                                 <div className="col-4">
                                     <div className="services-img d-flex align-items-center justify-content-center rounded">
-                                        <img src="img/services-1.jpg" className="img-fluid rounded" alt=""/>
+                                        <img src="/services-1.jpg" className="img-fluid rounded" alt=""/>
                                     </div>
                                 </div>
                             </div>
@@ -31,7 +31,7 @@ export default function Home2() {
                             <div className="row align-items-center">
                                 <div className="col-4">
                                     <div className="services-img d-flex align-items-center justify-content-center rounded">
-                                        <img src="img/services-2.jpg" className="img-fluid rounded" alt=""/>
+                                        <img src="/services-2.jpg" className="img-fluid rounded" alt=""/>
                                     </div>
                                 </div>
                                 <div className="col-8">
@@ -56,7 +56,7 @@ export default function Home2() {
                                 </div>
                                 <div className="col-4">
                                     <div className="services-img d-flex align-items-center justify-content-center rounded">
-                                        <img src="img/services-3.jpg" className="img-fluid rounded" alt=""/>
+                                        <img src="/services-3.jpg" className="img-fluid rounded" alt=""/>
                                     </div>
                                 </div>
                             </div>
@@ -67,7 +67,7 @@ export default function Home2() {
                             <div className="row align-items-center">
                                 <div className="col-4">
                                     <div className="services-img d-flex align-items-center justify-content-center rounded">
-                                        <img src="img/services-4.jpg" className="img-fluid rounded" alt=""/>
+                                        <img src="/services-4.jpg" className="img-fluid rounded" alt=""/>
                                     </div>
                                 </div>
                                 <div className="col-8">
@@ -92,7 +92,7 @@ export default function Home2() {
                                 </div>
                                 <div className="col-4">
                                     <div className="services-img d-flex align-items-center justify-content-center rounded">
-                                        <img src="img/services-5.jpg" className="img-fluid rounded" alt=""/>
+                                        <img src="/services-5.jpg" className="img-fluid rounded" alt=""/>
                                     </div>
                                 </div>
                             </div>
@@ -103,7 +103,7 @@ export default function Home2() {
                             <div className="row align-items-center">
                                 <div className="col-4">
                                     <div className="services-img d-flex align-items-center justify-content-center rounded">
-                                        <img src="img/services-6.jpg" className="img-fluid rounded" alt=""/>
+                                        <img src="/services-6.jpg" className="img-fluid rounded" alt=""/>
                                     </div>
                                 </div>
                                 <div className="col-8">
@@ -128,7 +128,7 @@ export default function Home2() {
                                 </div>
                                 <div className="col-4">
                                     <div className="services-img d-flex align-items-center justify-content-center rounded">
-                                        <img src="img/services-3.jpg" className="img-fluid rounded" alt=""/>
+                                        <img src="/services-3.jpg" className="img-fluid rounded" alt=""/>
                                     </div>
                                 </div>
                             </div>
@@ -139,7 +139,7 @@ export default function Home2() {
                             <div className="row align-items-center">
                                 <div className="col-4">
                                     <div className="services-img d-flex align-items-center justify-content-center rounded">
-                                        <img src="img/services-1.jpg" className="img-fluid rounded" alt=""/>
+                                        <img src="/services-1.jpg" className="img-fluid rounded" alt=""/>
                                     </div>
                                 </div>
                                 <div className="col-8">
