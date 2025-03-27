@@ -1,3 +1,5 @@
+import Image from "next/image"
+import Link from "next/link"
 export default function Home3(){
     return(
         <div className="container-fluid about py-5">
@@ -5,9 +7,9 @@ export default function Home3(){
             <div className="row g-5 align-items-center">
                 <div className="col-lg-5">
                     <div className="video">
-                        <img src="/about-1.jpg" className="img-fluid rounded" alt=""/>
+                        <Image src="/about-1.jpg" className="img-fluid rounded" alt="not found"/>
                         <div className="position-absolute rounded border-5 border-top border-start border-white" >
-                            <img src="/about-2.jpg" className="img-fluid rounded" alt=""/>
+                            <Image src="/about-2.jpg" className="img-fluid rounded" alt="not found"/>
                         </div>
                         <button type="button" className="btn btn-play" data-bs-toggle="modal" data-src="https://www.youtube.com/embed/DWRcNpR6Kdc" data-bs-target="#videoModal">
                             <span></span>
@@ -17,7 +19,7 @@ export default function Home3(){
                 <div className="col-lg-7">
                     <p className="fs-4 text-uppercase text-primary">About Us</p>
                     <h1 className="display-4 mb-4">Your Best Spa, Beauty & Skin Care Center</h1>
-                    <p className="mb-4">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled
+                    <p className="mb-4">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled
                     </p>
                     <div className="row g-4">
                         <div className="col-md-6">
@@ -39,11 +41,11 @@ export default function Home3(){
                             </div>
                         </div>
                     </div>
-                    <p className="my-4">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+                    <p className="my-4">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s,
                     </p>
-                    <p className="mb-4">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                    <p className="mb-4">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
                     </p>
-                    <a href="#" className="btn btn-primary btn-primary-outline-0 rounded-pill py-3 px-5">Explore More</a>
+                    <Link href="#" className="btn btn-primary btn-primary-outline-0 rounded-pill py-3 px-5">Explore More</Link>
                 </div> 
             </div>
         </div>

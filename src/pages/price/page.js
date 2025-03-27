@@ -1,3 +1,4 @@
+import Link from "next/link"
 export default function Home7(){
     return(
         <div className="container-fluid pricing py-5">
@@ -17,7 +18,7 @@ export default function Home7(){
                             <p><i className="fa fa-check text-primary me-2"></i>Hot Stone Massage</p>
                             <p><i className="fa fa-check text-primary me-2"></i>Tissue Body Polish</p>
                             <p><i className="fa fa-check text-primary me-2"></i>Foot & Nail Care</p>
-                            <a href="" className="btn btn-primary btn-primary-outline-0 rounded-pill my-2 px-4">Order Now</a>
+                            <Link href="" className="btn btn-primary btn-primary-outline-0 rounded-pill my-2 px-4">Order Now</Link>
                         </div>
                     </div>
                 </div>
@@ -35,7 +36,7 @@ export default function Home7(){
                             <p><i className="fa fa-check text-primary me-2"></i>Hot Stone Massage</p>
                             <p><i className="fa fa-check text-primary me-2"></i>Tissue Body Polish</p>
                             <p><i className="fa fa-check text-primary me-2"></i>Foot & Nail Care</p>
-                            <a href="" className="btn btn-primary btn-primary-outline-0 rounded-pill my-2 px-4">Order Now</a>
+                            <Link href="" className="btn btn-primary btn-primary-outline-0 rounded-pill my-2 px-4">Order Now</Link>
                         </div>
                     </div>
                 </div>
@@ -53,7 +54,7 @@ export default function Home7(){
                             <p><i className="fa fa-check text-primary me-2"></i>Hot Stone Massage</p>
                             <p><i className="fa fa-check text-primary me-2"></i>Tissue Body Polish</p>
                             <p><i className="fa fa-check text-primary me-2"></i>Foot & Nail Care</p>
-                            <a href="" className="btn btn-primary btn-primary-outline-0 rounded-pill my-2 px-4">Order Now</a>
+                            <Link href="" className="btn btn-primary btn-primary-outline-0 rounded-pill my-2 px-4">Order Now</Link>
                         </div>
                     </div>
                 </div>
@@ -71,7 +72,7 @@ export default function Home7(){
                             <p><i className="fa fa-check text-primary me-2"></i>Hot Stone Massage</p>
                             <p><i className="fa fa-check text-primary me-2"></i>Tissue Body Polish</p>
                             <p><i className="fa fa-check text-primary me-2"></i>Foot & Nail Care</p>
-                            <a href="" className="btn btn-primary btn-primary-outline-0 rounded-pill my-2 px-4">Order Now</a>
+                            <Link href="" className="btn btn-primary btn-primary-outline-0 rounded-pill my-2 px-4">Order Now</Link>
                         </div>
                     </div>
                 </div>

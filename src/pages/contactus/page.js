@@ -1,3 +1,4 @@
+import Link from "next/link"
 export default function Home10(){
     return(
         <div className="container-fluid py-5">
@@ -43,10 +44,10 @@ export default function Home10(){
                         <div className=" text-center p-4 rounded-bottom bg-primary">
                             <h4 className="text-white fw-bold">Follow Us</h4>
                             <div className="d-flex align-items-center justify-content-center">
-                                <a href="#" className="btn btn-light btn-light-outline-0 btn-square rounded-circle me-3"><i className="fab fa-facebook-f"></i></a>
-                                <a href="#" className="btn btn-light btn-light-outline-0 btn-square rounded-circle me-3"><i className="fab fa-twitter"></i></a>
-                                <a href="#" className="btn btn-light btn-light-outline-0 btn-square rounded-circle me-3"><i className="fab fa-instagram"></i></a>
-                                <a href="#" className="btn btn-light btn-light-outline-0 btn-square rounded-circle"><i className="fab fa-linkedin-in"></i></a>
+                                <Link href="#" className="btn btn-light btn-light-outline-0 btn-square rounded-circle me-3"><i className="fab fa-facebook-f"></i></Link>
+                                <Link href="#" className="btn btn-light btn-light-outline-0 btn-square rounded-circle me-3"><i className="fab fa-twitter"></i></Link>
+                                <Link href="#" className="btn btn-light btn-light-outline-0 btn-square rounded-circle me-3"><i className="fab fa-instagram"></i></Link>
+                                <Link href="#" className="btn btn-light btn-light-outline-0 btn-square rounded-circle"><i className="fab fa-linkedin-in"></i></Link>
                             </div>   
                         </div>
                     </div>

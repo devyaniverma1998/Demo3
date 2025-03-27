@@ -1,3 +1,4 @@
+import Link from "next/link"
 export default function Footer() {
     return (
         <>
@@ -17,12 +18,12 @@ export default function Footer() {
                         <div className="col-md-6 col-lg-6 col-xl-3">
                             <div className="footer-item d-flex flex-column">
                                 <h4 className="mb-4 text-white">Our Services</h4>
-                                <a href="/about"><i className="fas fa-angle-right me-2"></i> About</a>
-                                <a href="/blog"><i className="fas fa-angle-right me-2"></i> Blog</a>
+                                <Link href="/about"><i className="fas fa-angle-right me-2"></i> About</Link>
+                                <Link href="/blog"><i className="fas fa-angle-right me-2"></i> Blog</Link>
 
-                                <a href="/terms"><i className="fas fa-angle-right me-2"></i> Terms & Conditions</a>
-                                <a href="/privacy"><i className="fas fa-angle-right me-2"></i> Privacy Policy</a>
-                                <a href="/contact"><i className="fas fa-angle-right me-2"></i> Contact</a>
+                                <Link href="/terms"><i className="fas fa-angle-right me-2"></i> Terms & Conditions</Link>
+                                <Link href="/privacy"><i className="fas fa-angle-right me-2"></i> Privacy Policy</Link>
+                                <Link href="/contact"><i className="fas fa-angle-right me-2"></i> Contact</Link>
                             </div>
                         </div>
                         <div className="col-md-6 col-lg-6 col-xl-3">
@@ -38,9 +39,9 @@ export default function Footer() {
                         <div className="col-md-6 col-lg-6 col-xl-3">
                             <div className="footer-item d-flex flex-column">
                                 <h4 className="mb-4 text-white">Follow Us</h4>
-                                <a href=""><i className="fas fa-angle-right me-2"></i> Faceboock</a>
-                                <a href=""><i className="fas fa-angle-right me-2"></i> Instagram</a>
-                                <a href=""><i className="fas fa-angle-right me-2"></i> Twitter</a>
+                                <Link href=""><i className="fas fa-angle-right me-2"></i> Faceboock</Link>
+                                <Link href=""><i className="fas fa-angle-right me-2"></i> Instagram</Link>
+                                <Link href=""><i className="fas fa-angle-right me-2"></i> Twitter</Link>
                                 <h4 className="my-4 text-white">Contact Us</h4>
                                 <p className="mb-0"><i className="fas fa-envelope text-secondary me-2"></i> info@example.com</p>
                                 <p className="mb-0"><i className="fas fa-phone text-secondary me-2"></i> (+012) 3456 7890 123</p>
@@ -54,27 +55,27 @@ export default function Footer() {
                 <div className="container">
                     <div className="row g-4 align-items-center">
                         <div className="col-md-4 text-center text-md-start mb-md-0">
-                            <span className="text-light"><a href="#"><i className="fas fa-copyright text-light me-2"></i>Your Site Name</a>, All right reserved.</span>
+                            <span className="text-light"><Link href="#"><i className="fas fa-copyright text-light me-2"></i>Your Site Name</Link>, All right reserved.</span>
                         </div>
                         <div className="col-md-4">
                             {/* <div className="d-flex justify-content-center">
-                                <a href="" className="btn btn-light btn-light-outline-0 btn-sm-square rounded-circle me-2"><i className="fab fa-facebook-f"></i></a>
-                                <a href="" className="btn btn-light btn-light-outline-0 btn-sm-square rounded-circle me-2"><i className="fab fa-twitter"></i></a>
-                                <a href="" className="btn btn-light btn-light-outline-0 btn-sm-square rounded-circle me-2"><i className="fab fa-instagram"></i></a>
-                                <a href="" className="btn btn-light btn-light-outline-0 btn-sm-square rounded-circle me-0"><i className="fab fa-linkedin-in"></i></a>
+                                <Link href="" className="btn btn-light btn-light-outline-0 btn-sm-square rounded-circle me-2"><i className="fab fa-facebook-f"></i></Link>
+                                <Link href="" className="btn btn-light btn-light-outline-0 btn-sm-square rounded-circle me-2"><i className="fab fa-twitter"></i></Link>
+                                <Link href="" className="btn btn-light btn-light-outline-0 btn-sm-square rounded-circle me-2"><i className="fab fa-instagram"></i></Link>
+                                <Link href="" className="btn btn-light btn-light-outline-0 btn-sm-square rounded-circle me-0"><i className="fab fa-linkedin-in"></i></Link>
                             </div> */}
                         </div>
                         <div className="col-md-4 text-center text-md-end text-white">
 
                             <div className="d-flex justify-content-center">
-                                <a href="" className="btn btn-light btn-light-outline-0 btn-sm-square rounded-circle me-2"><i className="fab fa-facebook-f"></i></a>
-                                <a href="" className="btn btn-light btn-light-outline-0 btn-sm-square rounded-circle me-2"><i className="fab fa-twitter"></i></a>
-                                <a href="" className="btn btn-light btn-light-outline-0 btn-sm-square rounded-circle me-2"><i className="fab fa-instagram"></i></a>
-                                <a href="" className="btn btn-light btn-light-outline-0 btn-sm-square rounded-circle me-0"><i className="fab fa-linkedin-in"></i></a>
+                                <Link href="" className="btn btn-light btn-light-outline-0 btn-sm-square rounded-circle me-2"><i className="fab fa-facebook-f"></i></Link>
+                                <Link href="" className="btn btn-light btn-light-outline-0 btn-sm-square rounded-circle me-2"><i className="fab fa-twitter"></i></Link>
+                                <Link href="" className="btn btn-light btn-light-outline-0 btn-sm-square rounded-circle me-2"><i className="fab fa-instagram"></i></Link>
+                                <Link href="" className="btn btn-light btn-light-outline-0 btn-sm-square rounded-circle me-0"><i className="fab fa-linkedin-in"></i></Link>
                             </div>
 
                             {/* 
-                            Designed By <a className="border-bottom" href="https://htmlcodex.com">HTML Codex</a> */}
+                            Designed By <Link className="border-bottom" href="https://htmlcodex.com">HTML Codex</Link> */}
                         </div>
                     </div>
                 </div>

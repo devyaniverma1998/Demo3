@@ -1,3 +1,5 @@
+import Image from "next/image"
+import Link from "next/link"
 export default function Home9() {
     return (
         <div className="container-fluid testimonial py-5">
@@ -12,7 +14,7 @@ export default function Home9() {
                             <div className="col-4">
                                 <div className="d-flex flex-column mx-auto">
                                     <div className="rounded-circle mb-4" >
-                                        <img src="/testimonial-1.jpg" className="img-fluid rounded-circle" alt="" />
+                                        <Image src="/testimonial-1.jpg" className="img-fluid rounded-circle" alt="" />
                                     </div>
                                     <div className="text-center">
                                         <h4 className="mb-2 text-primary">Person Name</h4>
@@ -32,7 +34,7 @@ export default function Home9() {
                                         <i className="fas fa-star text-primary"></i>
                                         <i className="fas fa-star"></i>
                                     </div>
-                                    <p className="fs-5 mb-0 text-white">Lorem ipsum dolor sit amet elit, sed do eiusmod tempor ut labore et dolore magna aliqua is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy
+                                    <p className="fs-5 mb-0 text-white">Lorem ipsum dolor sit amet elit, sed do eiusmod tempor ut labore et dolore magna aliqua is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy
                                     </p>
                                 </div>
                             </div>
@@ -43,7 +45,7 @@ export default function Home9() {
                             <div className="col-4">
                                 <div className="d-flex flex-column mx-auto">
                                     <div className="rounded-circle mb-4" >
-                                        <img src="/testimonial-2.jpg" className="img-fluid rounded-circle" alt="" />
+                                        < Image src="/testimonial-2.jpg" className="img-fluid rounded-circle" alt="" />
                                     </div>
                                     <div className="text-center">
                                         <h4 className="mb-2 text-primary">Person Name</h4>
@@ -63,7 +65,7 @@ export default function Home9() {
                                         <i className="fas fa-star text-primary"></i>
                                         <i className="fas fa-star"></i>
                                     </div>
-                                    <p className="fs-5 mb-0 text-white">Lorem ipsum dolor sit amet elit, sed do eiusmod tempor ut labore et dolore magna aliqua is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy
+                                    <p className="fs-5 mb-0 text-white">Lorem ipsum dolor sit amet elit, sed do eiusmod tempor ut labore et dolore magna aliqua is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy
                                     </p>
                                 </div>
                             </div>
@@ -74,7 +76,7 @@ export default function Home9() {
                             <div className="col-4">
                                 <div className="d-flex flex-column mx-auto">
                                     <div className="rounded-circle mb-4" >
-                                        <img src="/testimonial-3.jpg" className="img-fluid rounded-circle" alt="" />
+                                        <Image src="/testimonial-3.jpg" className="img-fluid rounded-circle" alt="" />
                                     </div>
                                     <div className="text-center">
                                         <h4 className="mb-2 text-primary">Person Name</h4>
@@ -94,7 +96,7 @@ export default function Home9() {
                                         <i className="fas fa-star text-primary"></i>
                                         <i className="fas fa-star"></i>
                                     </div>
-                                    <p className="fs-5 mb-0 text-white">Lorem ipsum dolor sit amet elit, sed do eiusmod tempor ut labore et dolore magna aliqua is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy
+                                    <p className="fs-5 mb-0 text-white">Lorem ipsum dolor sit amet elit, sed do eiusmod tempor ut labore et dolore magna aliqua is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy
                                     </p>
                                 </div>
                             </div>

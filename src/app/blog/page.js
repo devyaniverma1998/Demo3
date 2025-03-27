@@ -1,5 +1,5 @@
 
-import Home2 from "@/pages/home2/page";
+import Home2 from "@/pages/service/page";
 
 export default function Contact(){
     return(

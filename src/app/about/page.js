@@ -1,5 +1,5 @@
 
-import Home3 from "@/pages/home3/page";
+import Home3 from "@/pages/aboutus/page";
 
 export default function About(){
     return(
